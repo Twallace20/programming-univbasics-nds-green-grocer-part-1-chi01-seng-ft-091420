@@ -27,6 +27,6 @@ unconsolidated_cart = [
 
 
 end
-consolidate_cart[]
+consolidate_cart[unconsolidated_cart]
 
   
