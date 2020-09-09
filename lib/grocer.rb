@@ -25,8 +25,7 @@ unconsolidated_cart = [
   {:item => "KALE", :price => 3.00, :clearance => false}
 ]
 
-
-end
 consolidate_cart[unconsolidated_cart]
+end
 
   
